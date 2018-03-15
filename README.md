@@ -1,5 +1,5 @@
 # Biostat 830 2018 Winter
-# Machine Learning for Health Sciences
+Machine Learning for Health Sciences
 
 ### Authors:
 * Daiwei Zhang (daiweiz@umich.edu)
