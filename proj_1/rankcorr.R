@@ -1,0 +1,8 @@
+rslt <- read.table('compare.txt')
+true.rank <- qnorm(rank(rslt[,1]) / (nrow(rslt)+1))
+pred.rank <- qnorm(rank(rslt[,2]) / (nrow(rslt)+1))
+rand.rank <- qnorm(sample(nrow(rslt))/ (nrow(rslt)+1))
+print("Baseline rank correlation")
+print(cor(true.rank, rand.rank))
+print("Model rank correlation")
+print(cor(true.rank, pred.rank))
