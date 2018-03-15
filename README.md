@@ -2,7 +2,7 @@
 Machine Learning for Health Sciences
 
 ### Authors:
-* Daiwei Zhang (daiweiz@umich.edu)
+* David (Daiwei) Zhang (daiweiz@umich.edu)
 * Fengyu Zhao (fengyuz@umich.edu)
 
 ## Project 1: Phenotype Prediction
