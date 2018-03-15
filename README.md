@@ -1,10 +1,9 @@
-Biostat 830 2018 Winter
+# Biostat 830 2018 Winter
+# Machine Learning for Health Sciences
 
-Machine Learning for Health Sciences
-
-Authors:
+### Authors:
 * Daiwei Zhang (daiweiz@umich.edu)
 * Fengyu Zhao (fengyuz@umich.edu)
 
-* Project 1: Phenotype Prediction
+## Project 1: Phenotype Prediction
 
